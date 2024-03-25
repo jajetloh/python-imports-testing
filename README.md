@@ -1,0 +1,1 @@
+Minimal Working Example of importing parent module functionality from a child module, following [this StackOverflow answer](https://stackoverflow.com/a/50194143)
